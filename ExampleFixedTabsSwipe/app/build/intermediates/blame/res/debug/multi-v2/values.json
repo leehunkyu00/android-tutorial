@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hklee/work/android-tutorial/ExampleFixedTabsSwipe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/hklee/work/android-tutorial/ExampleFixedTabsSwipe/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,11,8,9,10,5,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "110,59,510,314,368,429,164,214,264",
+                        "endColumns": "52,49,50,52,59,79,48,48,48",
+                        "endOffsets": "158,104,556,362,423,504,208,258,308"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,272,323,376,436,516,565,614",
+                        "endColumns": "52,49,50,52,59,79,48,48,48",
+                        "endOffsets": "217,267,318,371,431,511,560,609,658"
+                    }
+                },
+                {
+                    "source": "/Users/hklee/work/android-tutorial/ExampleFixedTabsSwipe/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "663,954",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "949,1109"
+                    }
+                },
+                {
+                    "source": "/Users/hklee/work/android-tutorial/ExampleFixedTabsSwipe/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
