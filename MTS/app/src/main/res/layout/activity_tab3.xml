@@ -9,14 +9,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="main"
+        android:text="tab3"
         android:textSize="30dp"/>
-
-    <Button
-        android:id="@+id/testbutton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello world"/>
 
     <include layout="@layout/bottomtab"/>
 

@@ -26,45 +26,6 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1">
 
-                <LinearLayout
-                    android:id="@+id/content1"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="vertical">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:background="#f0f0f0"
-                        android:gravity="center"
-                        android:padding="8dp"
-                        android:text="TAB CONTENT1"/>
-                </LinearLayout>
-                <LinearLayout
-                    android:id="@+id/content2"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="vertical">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:background="#f0f0f0"
-                        android:gravity="center"
-                        android:padding="8dp"
-                        android:text="TAB CONTENT2"/>
-                </LinearLayout>
-                <LinearLayout
-                    android:id="@+id/content3"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="vertical">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:background="#f0f0f0"
-                        android:gravity="center"
-                        android:padding="8dp"
-                        android:text="TAB CONTENT3"/>
-                </LinearLayout>
             </FrameLayout>
             <TabWidget
                 android:id="@android:id/tabs"
