@@ -16,4 +16,11 @@ public class Tab4Activity extends mtsManager {
         setContentView(R.layout.activity_tab4);
         mtsManager.getMTSManager().init();
     }
+
+    @Override
+    public void finish() {
+        super.finish();
+
+        overridePendingTransition(0,0);
+    }
 }

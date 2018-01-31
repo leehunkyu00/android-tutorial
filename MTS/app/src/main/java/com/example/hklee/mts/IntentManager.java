@@ -46,8 +46,8 @@ public class IntentManager {
                 //intent = new Intent(ctx, Tab4Activity.class);
                 intent = new Intent(mtsContext, Tab4Activity.class);
                 break;
-
         }
+        intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
 
         if (intent == null) {
             System.out.println("[error] Intent is null");
