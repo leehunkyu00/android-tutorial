@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draganddrop/draganddrop.iml" filepath="$PROJECT_DIR$/draganddrop/draganddrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layout_demo2/layout_tablelayout_demo.iml" filepath="$PROJECT_DIR$/layout_demo2/layout_tablelayout_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutdemo/layoutdemo.iml" filepath="$PROJECT_DIR$/layoutdemo/layoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
     </modules>
   </component>
 </project>
